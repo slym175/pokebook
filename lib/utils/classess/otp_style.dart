@@ -1,0 +1,1 @@
+enum OTPStyle { underline, box }

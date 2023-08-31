@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591557568280",
+    "project_id": "pokebook-slymstudio-com",
+    "storage_bucket": "pokebook-slymstudio-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591557568280:android:0aa944ddbda36a54e4206d",
+        "android_client_info": {
+          "package_name": "com.slymstudio.pokebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591557568280-5m6hfan6inl3rj0glb12hfqpf3o3hj6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArRPh10uoO8ieRTUqjjwhU-3BNTebUkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591557568280-5m6hfan6inl3rj0glb12hfqpf3o3hj6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
